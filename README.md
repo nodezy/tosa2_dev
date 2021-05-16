@@ -1,4 +1,6 @@
 # tosa2_dev
+*update....we have decided to create an entirely new project, please visit http://koji.earth
+
 for the development of community project Tosa token
 
 
